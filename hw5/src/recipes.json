@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "shashlik",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa7IZXT-CV9XZQB0BtvT-2A-cR5MgUCDoaTg&s",
+    "time": 14,
+    "servings": 4,
+    "calories": 567,
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "name": "pizza",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpeXDG-cA1kF_RdZQzAkqXdCJO8GW_a-DcAQ&s",
+    "time": 5,
+    "servings": 1,
+    "calories": 120,
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "name": "burger",
+    "img": "https://images.unian.net/photos/2014_11/1415352589-9293-fast-fud.jpg",
+    "time": 25,
+    "servings": 2,
+    "calories": 346,
+    "difficulty": "hard"
+  },
+  {
+    "id": 4,
+    "name": "borsch",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHiEJBYefI4ODYRFjeT-kBXWQ_ZJIhFIgpw&s",
+    "time": 45,
+    "servings": 3,
+    "calories": 490,
+    "difficulty": "medium"
+  }
+]
